@@ -10,9 +10,9 @@ const Port = 5000;
 // Middleware
 app.use(express.json());
 const allowedOrigins = [
-  'http://localhost:5173',
-  'http://localhost:5174',
-  'https://admin-theta-dun.vercel.app',
+  'https://www.futurefundbd.top',
+  'https://futurefundbd.top',
+  'https://admin.futurefundbd.top',
   'https://future-liart.vercel.app'
 ];
 
