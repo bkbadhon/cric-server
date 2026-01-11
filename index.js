@@ -12,7 +12,7 @@ app.use(express.json());
 const allowedOrigins = [
   'https://www.futurefundbd.top',
   'https://futurefundbd.top',
-  'https://admin.futurefundbd.top',
+  'https://admin-theta-dun.vercel.app',
   'https://future-liart.vercel.app'
 ];
 
