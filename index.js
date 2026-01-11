@@ -10,10 +10,11 @@ const Port = 5000;
 // Middleware
 app.use(express.json());
 const allowedOrigins = [
-  'https://www.futurefundbd.top',
-  'https://futurefundbd.top',
+  'https://www.futurefund.top',
+  'https://futurefund.top',
   'https://admin-theta-dun.vercel.app',
-  'https://future-liart.vercel.app'
+  'https://future-liart.vercel.app',
+  'https://admin.futurefund.top'
 ];
 
 // CORS options
